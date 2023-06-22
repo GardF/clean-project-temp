@@ -11,7 +11,7 @@
 
 ## Simple Sequence diagram 
 
-````mermaid
+```mermaid
 sequenceDiagram
     box Alice & John
     participant A
