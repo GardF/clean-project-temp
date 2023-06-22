@@ -11,6 +11,7 @@
 
 ## Simple Sequence diagram 
 
+````mermaid
 sequenceDiagram
     box Purple Alice & John
     participant A
@@ -24,3 +25,4 @@ sequenceDiagram
     J->>A: Great!
     A->>B: Hello Bob, how is Charly ?
     B->>C: Hello Charly, how are you?
+```
