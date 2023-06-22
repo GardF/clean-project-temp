@@ -13,11 +13,11 @@
 
 ```mermaid
 sequenceDiagram
-    box Alice & John
+    box Purple Alice & John
     participant A
     participant J
     end
-    box Another Group
+    box Green Another Group
     participant B
     participant C
     end
