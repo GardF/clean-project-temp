@@ -13,7 +13,7 @@
 
 ````mermaid
 sequenceDiagram
-    box Purple Alice & John
+    box Alice & John
     participant A
     participant J
     end
